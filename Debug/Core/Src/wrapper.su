@@ -1,0 +1,5 @@
+wrapper.cpp:49:6:void update_wheel_vel()	16	static
+wrapper.cpp:64:6:void DC1()	8	static
+wrapper.cpp:80:6:void DC2()	8	static
+wrapper.cpp:97:6:void DC3()	8	static
+wrapper.cpp:114:6:void main_cpp()	8	static

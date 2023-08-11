@@ -1,0 +1,1 @@
+UART1_F710.cpp:37:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	16	static
